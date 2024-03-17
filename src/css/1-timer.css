@@ -1,15 +1,10 @@
-section {
-    /* display: flex; */
-
-}
-
 .timer {
     display: flex;
     column-gap: 24px;
     max-width: 346px;
-        height: 72px;
-        margin-top: 32px;
-        margin-left: 156px
+    height: 72px;
+    margin-top: 32px;
+    margin-left: 156px
 }
 
 .field {
